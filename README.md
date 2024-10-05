@@ -10,7 +10,7 @@ Responsive Designed.<br>
 Components:
 
 Header,
-2Footer,
+Footer,
 Navigation Menu,
 Movie Card,
 TV Show Card,
